@@ -7,8 +7,8 @@ import './index.css';
 
 import App from './App';
 //import registerServiceWorker from './registerServiceWorker';
-import Login from "./components/Login";
-import Register from "./components/Register";
+import Login from "./components/login";
+import Register from "./components/register";
 
 //import * as serviceWorker from './serviceWorker';
 
